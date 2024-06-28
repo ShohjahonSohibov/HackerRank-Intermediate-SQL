@@ -1,6 +1,6 @@
-// New Company
+-- Challenge name: New Company
 
-// Challenge: https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true
+-- Challenge: https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true
 
 SELECT 
     c.company_code,
